@@ -1,0 +1,31 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.values/strings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Firebase 설정 파일
+google-services.json
+GoogleService-Info.plist
+
+# API 키 또는 환경 변수 파일
+*.keystore
+local.properties
+.env
+secrets.properties
+
+# IDE 관련 파일
+.idea/
+*.iml
+build/
+.gradle/
