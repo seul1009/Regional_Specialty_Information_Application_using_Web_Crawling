@@ -51,9 +51,5 @@
 <br/>
 
 ## Task Assignment
-Backend: Kimjiwon
-Responsible for managing the server-side logic, ensuring seamless communication between the client and the server, and handling database interactions. This includes:
+김지원: 백엔드
 
-Server Management: Setting up, configuring, and maintaining servers to ensure reliability, scalability, and performance.
-Database Management: Designing, optimizing, and managing the database to store and retrieve data efficiently while ensuring data security and integrity.
-API Development: Building and maintaining APIs to facilitate communication between the client-side and server-side, enabling data exchange and system functionality.
