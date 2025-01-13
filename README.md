@@ -8,12 +8,12 @@
 <br/> ● 본 연구는 K-문화의 인기로 활성화된 한국 관광 산업에서, 관광객의 정보 접근성을 높이고 지역 경제 활성화를 도모하기 위해 지역별 특산품 정보를 통합 제공하는 애플리케이션을 개발·평가함
 <br/> ● 웹 크롤링을 활용하여 분산된 지역 특산품 정보를 한 곳에 모아 제공함으로써, 관광객의 정보 접근성과 특산품 구매 용이성을 개선하는 효과를 확인함.
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/122cc4a7-f220-4691-86a8-7b53335b19da" alt="사용자(그림 1)" width="130">
-  <img src="https://github.com/user-attachments/assets/13c1841b-9da0-4e73-8f4c-10c5f0af6d2e" alt="사용자(그림 2)" width="130">
-  <img src="https://github.com/user-attachments/assets/7e0de084-12ca-4487-a40e-dfdb2a739e82" alt="사용자(그림 3)" width="130">
-  <img src="https://github.com/user-attachments/assets/b4c64996-2234-43ac-8003-802496f7fb1e" alt="그림6 경주" width="130">
-  <img src="https://github.com/user-attachments/assets/9caf196d-41ee-4808-a115-fd8fe02caeeb" alt="그림7 경주" width="130">
-  <img src="https://github.com/user-attachments/assets/9819ded2-794b-4180-9b47-e4a477154b6c" alt="그림8 경주" width="130">
+  <img src="https://github.com/user-attachments/assets/122cc4a7-f220-4691-86a8-7b53335b19da" alt="사용자(그림 1)" width="135">
+  <img src="https://github.com/user-attachments/assets/13c1841b-9da0-4e73-8f4c-10c5f0af6d2e" alt="사용자(그림 2)" width="135">
+  <img src="https://github.com/user-attachments/assets/7e0de084-12ca-4487-a40e-dfdb2a739e82" alt="사용자(그림 3)" width="135">
+  <img src="https://github.com/user-attachments/assets/b4c64996-2234-43ac-8003-802496f7fb1e" alt="그림6 경주" width="135">
+  <img src="https://github.com/user-attachments/assets/9caf196d-41ee-4808-a115-fd8fe02caeeb" alt="그림7 경주" width="135">
+  <img src="https://github.com/user-attachments/assets/9819ded2-794b-4180-9b47-e4a477154b6c" alt="그림8 경주" width="135">
 </div>
 
 <br/>
