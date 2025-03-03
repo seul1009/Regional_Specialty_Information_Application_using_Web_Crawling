@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Souvenir</string>
-    <string name="default_web_client_id">AIzaSyDd3ZD7xXe5qcZRUscFkGSiYMNOZSrBKjA</string>
-    <string name="default_naver_client_id">f07mjoqck7</string>
+    <string name="default_web_client_id"></string>
+    <string name="default_naver_client_id"></string>
     <string name="modify">Modify</string>
     <string name="name">Name</string>
     <string name="mail">Email</string>
